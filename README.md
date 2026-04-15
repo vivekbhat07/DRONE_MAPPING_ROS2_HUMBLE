@@ -147,13 +147,13 @@ map.pcd_cloud.ply
 
 ### 📡 RTAB-Map Visualization
 
-![RTAB-Map Visualization](images/rtabmap.png)
+![RTAB-Map Visualization](images/3d_lidar.png)
 
 ---
 
 ### 🗺️ Generated 3D Map
 
-![3D Map](images/map.png)
+![3D Map](images/output.png)
 
 ---
 
