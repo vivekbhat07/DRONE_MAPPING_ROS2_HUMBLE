@@ -16,7 +16,7 @@ A simulated drone equipped with a LiDAR sensor collects data while flying over a
 ## 🗂️ Project Structure
 
 ```
-mini_project/
+DRONE_MAPPING_ROS2_HUMBLE/
 |__ images                       # resultes
 │── drone_waypoint_follower.py   # Drone control script
 │── small_city.world             # Gazebo environment
