@@ -157,6 +157,13 @@ map.pcd_cloud.ply
 
 ---
 
+## Generate 2D Map
+
+![2d map visuailsation](images/2d.png)
+
+---
+
+
 ## 🎯 Features
 
 * Real-time drone simulation in Gazebo
